@@ -1,0 +1,19 @@
+*** Settings ***
+Library    UITestLibrary.py
+
+*** Test Cases ***
+Connect And Print UI Tree
+    ${msg}=    Connect To Application    .*Tableau.*
+    Log    ${msg}
+    ${tree}=    Get UI Tree
+    Log    UI Tree Before Click:
+    Log    ${tree}
+
+Click A Button And Refresh Tree
+    # Replace "Close" with the actual button name you want to click.
+    ${click_msg}=    Click Button By Name    Close
+    Log    ${click_msg}
+    Sleep    2s    # wait for the UI to update
+    ${new_tree}=    Refresh UI Tree
+    Log    UI Tree After Click:
+    Log    ${new_tree}

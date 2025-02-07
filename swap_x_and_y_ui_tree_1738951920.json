@@ -1,0 +1,289 @@
+{
+  "composite": "Pane|Chrome_WidgetWin_1|NoAutomationId|Tableau - Google Chrome - divit|-9--9-1929-1029|42_2231290",
+  "children": [
+    {
+      "composite": "[1] Pane|Intermediate D3D Window|NoAutomationId|NoName|0-0-1920-1020|42_462714",
+      "children": []
+    },
+    {
+      "composite": "[2] TitleBar|UnknownClass|NoAutomationId|NoName|0--6-1920-0|42_2231290_3_-2147483647_2231290_-2_0",
+      "children": [
+        {
+          "composite": "[1] MenuBar|UnknownClass|MenuBar|System|0-0-28-28|42_2231290_3_-2147483646_10272_896142205_0",
+          "children": [
+            {
+              "composite": "[1] MenuItem|UnknownClass|NoAutomationId|System|0-0-28-28|42_2231290_3_-2147483646_11952_896142205_1",
+              "children": []
+            }
+          ]
+        },
+        {
+          "composite": "[2] Button|UnknownClass|NoAutomationId|Minimize|0-0-0-0|42_2231290_3_-2147483647_2231290_-2_2",
+          "children": []
+        },
+        {
+          "composite": "[3] Button|UnknownClass|NoAutomationId|Restore|0-0-0-0|42_2231290_3_-2147483647_2231290_-2_3",
+          "children": []
+        },
+        {
+          "composite": "[4] Button|UnknownClass|NoAutomationId|Close|0-0-0-0|42_2231290_3_-2147483647_2231290_-2_5",
+          "children": []
+        }
+      ]
+    },
+    {
+      "composite": "[3] Pane|UnknownClass|NoAutomationId|NoName|0-0-1920-1020|42_2231290_4_-2113138",
+      "children": [
+        {
+          "composite": "[1] Pane|UnknownClass|NoAutomationId|NoName|0-0-1920-1020|42_2231290_4_-2113139",
+          "children": [
+            {
+              "composite": "[1] Pane|UnknownClass|NoAutomationId|NoName|1748-0-1920-50|42_2231290_4_-2113142",
+              "children": [
+                {
+                  "composite": "[1] Button|UnknownClass|NoAutomationId|Minimize|1748-0-1805-50|42_2231290_4_-2113140",
+                  "children": []
+                },
+                {
+                  "composite": "[2] Button|UnknownClass|NoAutomationId|Restore|1805-0-1863-50|42_2231290_4_-2113145",
+                  "children": []
+                },
+                {
+                  "composite": "[3] Button|UnknownClass|NoAutomationId|Close|1862-0-1920-50|42_2231290_4_-2113147",
+                  "children": []
+                }
+              ]
+            },
+            {
+              "composite": "[2] Pane|UnknownClass|NoAutomationId|NoName|0-0-1920-1020|42_2231290_4_-2113076",
+              "children": [
+                {
+                  "composite": "[1] Pane|UnknownClass|NoAutomationId|NoName|0-0-1920-109|42_2231290_4_-2113081",
+                  "children": [
+                    {
+                      "composite": "[1] Tab|UnknownClass|NoAutomationId|NoName|0-0-1749-52|42_2231290_4_-2113082",
+                      "children": [
+                        {
+                          "composite": "[1] Pane|UnknownClass|NoAutomationId|NoName|7-0-43-52|42_2231290_4_-2113088",
+                          "children": [
+                            {
+                              "composite": "[1] MenuItem|UnknownClass|NoAutomationId|Search tabs|7-0-43-52|42_2231290_4_-2113083",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "composite": "[2] Pane|UnknownClass|NoAutomationId|NoName|35-0-1654-52|42_2231290_4_-2113077",
+                          "children": [
+                            {
+                              "composite": "[1] Pane|UnknownClass|NoAutomationId|NoName|35-0-1654-52|42_2231290_4_-2113079",
+                              "children": [
+                                {
+                                  "composite": "[1] TabItem|UnknownClass|NoAutomationId|levle 1 tableu certificaiton - Google Search|35-0-134-52|42_2231290_4_-2113581",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[2] TabItem|UnknownClass|NoAutomationId|Tableau|111-0-210-52|42_2231290_4_-2117451",
+                                  "children": [
+                                    {
+                                      "composite": "[1] Button|UnknownClass|NoAutomationId|Close|157-7-193-43|42_2231290_4_-2117455",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "composite": "[3] TabItem|UnknownClass|NoAutomationId|Certification|187-0-287-52|42_2231290_4_-2115514",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[4] TabItem|UnknownClass|NoAutomationId|Tableau Desktop Specialist|263-0-363-52|42_2231290_4_-2118201",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[5] TabItem|UnknownClass|NoAutomationId|Tableau Desktop Specialist Exam Guide|340-0-439-52|42_2231290_4_-2118791",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[6] TabItem|UnknownClass|NoAutomationId|Instructor Led Training|416-0-515-52|42_2231290_4_-2120191",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[7] TabItem|UnknownClass|NoAutomationId|Tableau Desktop Specialist|492-0-592-52|42_2231290_4_-2116506",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[8] TabItem|UnknownClass|NoAutomationId|Tableau Desktop I: Fundamentals - TTD101 - TTD101 | Salesforce Training|568-0-668-52|42_2231290_4_-2121021",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[9] TabItem|UnknownClass|NoAutomationId|salesforce technical employee count - Google Search|645-0-744-52|42_2231290_4_-2118134",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[10] TabItem|UnknownClass|NoAutomationId|tableau desktop specialist mock exam - Google Search|721-0-820-52|42_2231290_4_-2121042",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[11] TabItem|UnknownClass|NoAutomationId|Tableau Specialist \u2013 Exam 1 \u2013 Free - Tableau Certifications|797-0-897-52|42_2231290_4_-2124416",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[12] TabItem|UnknownClass|NoAutomationId|Tableau Desktop Specialist Certification Practice Exam Questions|873-0-973-52|42_2231290_4_-2126710",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[13] TabItem|UnknownClass|NoAutomationId|Free Tableau Certification Practice Exams with Solutions|950-0-1049-52|42_2231290_4_-2127847",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[14] TabItem|UnknownClass|NoAutomationId|Tableau Desktop Specialist Certification Practice Tests 2025 | Udemy|1026-0-1125-52|42_2231290_4_-2130832",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[15] TabItem|UnknownClass|NoAutomationId|Free Tableau Data Analyst & Specialist Certification Tests|1102-0-1202-52|42_2231290_4_-2135419",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[16] TabItem|UnknownClass|NoAutomationId|00:00:00 Tableau Desktop Specialist Free Practice Exam|1178-0-1278-52|42_2231290_4_-2136155",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[17] TabItem|UnknownClass|NoAutomationId|tableu pracitice replication test - Google Search|1255-0-1354-52|42_2231290_4_-2141107",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[18] TabItem|UnknownClass|NoAutomationId|Practice for tableau certification|1331-0-1429-52|42_2231290_4_-2143087",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[19] TabItem|UnknownClass|NoAutomationId|Tableau Certification \u00bb Tableau Practice Test|1406-0-1504-52|42_2231290_4_-2145027",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[20] TabItem|UnknownClass|NoAutomationId|Tableau Desktop Specialist Certification Free Practice Exam \u00bb Tableau Practice Test|1481-0-1579-52|42_2231290_4_-2150671",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[21] TabItem|UnknownClass|NoAutomationId|New Tab|1556-0-1654-52|42_2231290_4_-2165011",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "composite": "[2] Pane|UnknownClass|NoAutomationId|NoName|35-0-1654-52|42_2231290_4_-2113078",
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "composite": "[3] Button|UnknownClass|NoAutomationId|New Tab|1646-0-1682-52|42_2231290_4_-2113099",
+                          "children": []
+                        },
+                        {
+                          "composite": "[4] Pane|UnknownClass|NoAutomationId|NoName|1696-0-1749-52|42_2231290_4_-2113104",
+                          "children": []
+                        }
+                      ]
+                    },
+                    {
+                      "composite": "[2] ToolBar|UnknownClass|NoAutomationId|NoName|0-50-1920-108|42_2231290_4_-2113111",
+                      "children": [
+                        {
+                          "composite": "[1] Pane|UnknownClass|NoAutomationId|NoName|1910-50-1920-60|42_2231290_4_-2113151",
+                          "children": []
+                        },
+                        {
+                          "composite": "[2] Pane|UnknownClass|NoAutomationId|NoName|0-50-10-60|42_2231290_4_-2113150",
+                          "children": []
+                        },
+                        {
+                          "composite": "[3] Pane|UnknownClass|NoAutomationId|NoName|0-50-1920-108|42_2231290_4_-2113112",
+                          "children": [
+                            {
+                              "composite": "[1] Button|UnknownClass|NoAutomationId|Back|0-57-49-100|42_2231290_4_-2113160",
+                              "children": []
+                            },
+                            {
+                              "composite": "[2] Button|UnknownClass|NoAutomationId|Forward|51-57-94-100|42_2231290_4_-2113165",
+                              "children": []
+                            },
+                            {
+                              "composite": "[3] Button|UnknownClass|NoAutomationId|Reload|96-57-139-100|42_2231290_4_-2113170",
+                              "children": []
+                            },
+                            {
+                              "composite": "[4] MenuItem|UnknownClass|NoAutomationId|View site information|156-63-187-94|42_2231290_4_-2113259",
+                              "children": []
+                            },
+                            {
+                              "composite": "[5] Edit|UnknownClass|NoAutomationId|Address and search bar|196-63-1603-94|42_2231290_4_-2113266",
+                              "children": []
+                            },
+                            {
+                              "composite": "[6] Pane|UnknownClass|NoAutomationId|NoName|1612-63-1643-94|42_2231290_4_-2113407",
+                              "children": [
+                                {
+                                  "composite": "[1] Button|UnknownClass|NoAutomationId|Bookmark this tab|1612-63-1643-94|42_2231290_4_-2113562",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "composite": "[7] Pane|UnknownClass|NoAutomationId|NoName|0-0-0-0|42_2231290_4_-2113576",
+                              "children": []
+                            },
+                            {
+                              "composite": "[8] Pane|UnknownClass|NoAutomationId|NoName|1668-57-1757-100|42_2231290_4_-2113185",
+                              "children": [
+                                {
+                                  "composite": "[1] MenuItem|UnknownClass|NoAutomationId|Grammarly\nHas access to this site|1668-57-1712-100|42_2231290_4_-2113191",
+                                  "children": []
+                                },
+                                {
+                                  "composite": "[2] MenuItem|UnknownClass|NoAutomationId|Extensions|1713-57-1757-100|42_2231290_4_-2113180",
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "composite": "[9] Pane|UnknownClass|NoAutomationId|NoName|1767-68-1770-89|42_2231290_4_-2113212",
+                              "children": []
+                            },
+                            {
+                              "composite": "[10] Button|UnknownClass|NoAutomationId|Energy Saver is on|1781-57-1824-100|42_2231290_4_-2113215",
+                              "children": []
+                            },
+                            {
+                              "composite": "[11] Button|UnknownClass|NoAutomationId|divit|1826-57-1869-100|42_2231290_4_-2113225",
+                              "children": []
+                            },
+                            {
+                              "composite": "[12] MenuItem|UnknownClass|NoAutomationId|Chrome|1871-57-1920-100|42_2231290_4_-2113240",
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "composite": "[3] Pane|UnknownClass|NoAutomationId|NoName|0-107-1920-109|42_2231290_4_-2113113",
+                      "children": []
+                    }
+                  ]
+                },
+                {
+                  "composite": "[2] Pane|UnknownClass|NoAutomationId|NoName|0-108-1920-1020|42_2231290_4_-2113109",
+                  "children": []
+                },
+                {
+                  "composite": "[3] Pane|UnknownClass|NoAutomationId|NoName|0-0-0-0|42_2231290_4_-2113125",
+                  "children": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
